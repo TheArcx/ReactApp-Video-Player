@@ -5,7 +5,7 @@ import VideoList from './VideoList';
 import VideoDetail from './VideoDetail'
 
 
-// It will use state so it is a class app
+// State requires class app
 class App extends React.Component{
     state = { videos: [], selectedVideo: null};
 
