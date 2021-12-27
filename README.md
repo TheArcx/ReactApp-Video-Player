@@ -7,4 +7,4 @@
 - Search whatever category you would like to watch. 5 recommended videos show in the sidebar
 - Image below is application running after searching planes
 
-![IVEu9lX](https://user-images.githubusercontent.com/29129116/147428817-8d673de7-36e1-484a-8434-f7acb6917831.png)
+![IVEu9lX](https://user-images.githubusercontent.com/29129116/147428817-8d673de7-36e1-484a-8434-f7acb6917831.png) 
